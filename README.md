@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Mangala Ravindra Sai — MERN Stack Developer" width="100%" />
+# Mangala Ravindra Sai 👋
 
-<br /><br />
+### Full-Stack MERN Developer
 
 <p>
-  <a href="https://linkedin.com/in/RavindraSai">
+  <a href="https://www.linkedin.com/in/ravindra-sai-mangala">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ravindrasai44211@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ravindracode/ai-career-assistant">
-    <img src="https://img.shields.io/badge/Latest%20Project-AI%20Career%20Assistant-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="AI Career Assistant" />
+    <img src="https://img.shields.io/badge/Featured%20Repo-AI%20Career%20Assistant-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="AI Career Assistant" />
   </a>
 </p>
 
@@ -20,14 +20,14 @@
 
 ---
 
-### 👋 Hey there! I'm Ravindra Sai
+### 👋 About Me
 
-I'm a **MERN Stack Developer** who loves building fast, clean full-stack web applications and practical **AI / LLM** tools.
+I'm a **MERN Stack Developer** building clean full-stack web applications and practical **AI / LLM** tools.
 
-- ⚡ I focus on **MongoDB, Express.js, React.js, and Node.js** for responsive UIs and scalable REST APIs
-- 🔐 Experienced in building **secure auth systems** (JWT with RSA signing, Google & Microsoft OAuth SSO) and **multi-tenant architectures**
-- 🤖 Exploring **Applied AI** — structured LLM pipelines, RAG workflows, and vector search with **FastAPI, Groq, LangChain, and FAISS**
-- 🚀 Always optimizing for speed, clean architecture, and great developer & user experience
+- ⚡ Focus on **MongoDB, Express.js, React.js, and Node.js** for modern frontends and scalable REST APIs
+- 🔐 Experience with **authentication & security** (JWT with RSA signing, Google & Microsoft OAuth SSO) and **multi-tenant architectures**
+- 🤖 Applied AI integration — structured LLM outputs, RAG workflows, and vector search with **FastAPI, Groq, LangChain, and FAISS**
+- 🚀 Committed to clean code, modular architecture, and high-performance endpoints
 
 ---
 
@@ -53,7 +53,7 @@ I'm a **MERN Stack Developer** who loves building fast, clean full-stack web app
   <img src="https://img.shields.io/badge/JWT%20%26%20OAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT and OAuth" />
 </p>
 
-**AI / LLM & Developer Tools**
+**AI / LLM & Tools**
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
@@ -64,27 +64,3 @@ I'm a **MERN Stack Developer** who loves building fast, clean full-stack web app
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | What It Does | Stack |
-| --- | --- | --- |
-| [**AI Career Assistant**](https://github.com/ravindracode/ai-career-assistant) | Full-stack PDF resume analyzer with Groq structured JSON extraction, Pydantic validation, MongoDB persistence & React dashboard | `React` `FastAPI` `MongoDB` `Groq` `Pydantic` |
-| **Document Q&A Tool (RAG)** | Retrieval-Augmented Generation pipeline indexing `.txt` chunks with HuggingFace embeddings + FAISS for grounded Q&A | `Python` `LangChain` `FAISS` `OpenAI` |
-| **PDF Conversational Chatbot** | Extracts text from uploaded PDFs and powers natural-language follow-up conversations grounded in document content | `Python` `OpenAI API` `PDF Parser` |
-
----
-
-### 💡 What I Enjoy Building
-
-- **Full-Stack MERN Apps:** Clean component architecture, RESTful backends, and smooth database modeling
-- **High-Performance APIs:** Profiling slow endpoints and optimizing queries & payloads for sub-100ms responses
-- **Applied AI Workflows:** Turning messy documents into reliable, structured software outputs
-
----
-
-<div align="center">
-  <sub>Always open to connecting with fellow developers and teams • <a href="https://linkedin.com/in/RavindraSai">LinkedIn</a> • <a href="mailto:ravindrasai44211@gmail.com">ravindrasai44211@gmail.com</a></sub>
-</div>
